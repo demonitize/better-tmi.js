@@ -1,0 +1,11 @@
+{
+  "name":"better-tmijs",
+  "version":"0.0.2",
+  "description":"Better version of TMI.JS",
+  "main":"node index.js",
+  "scripts":{
+    "install":"node src/setup/install.js",
+    "start":"node index.js",
+    "uninstall":"node src/setup/uninstall.js"
+  }
+}
